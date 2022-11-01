@@ -1,0 +1,23 @@
+{
+    "true" : "✅",
+    "false" : "❌",
+    "music" : "🎶",
+    "minigames" : "🕹",
+    "premium" : "🔰",
+    "micmute" : "🎤",
+    "mic" : "🎙",
+    "link" : "🔗",
+    "close" : "🔒",
+    "fullmute" : "🎧",
+    "loading" : "☑️",
+    "schreiben" :"✍️",
+    "rotpoint" : "🔴",
+    "greenpoint" : "🟢",
+    "channelping" : "👨🏽‍💻",
+    "dev" : "💻",
+    "fragezeichen" : "❓",
+    "server" : "🤖",
+    "settings" : "⚙️",
+    "users" : "👨‍👩‍👦",
+    "radio" : "📻"
+}
